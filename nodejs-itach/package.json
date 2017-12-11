@@ -1,0 +1,12 @@
+{
+  "name": "itach-bridge",
+  "description": "a delightfully fruity coffee varietal",
+  "version": "1.2.3",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "node-itach": "^1.1.0",
+    "itach":"latest"
+  },
+  "main": "server.js"
+}
